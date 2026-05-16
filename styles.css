@@ -35,7 +35,7 @@ border: 2px solid #D4A5D9;
 }
 
 .caja img{
-    width: 160px;
+    width: 100px;
     height: 100px;
     border: 2px solid rgb(147, 167, 223);
     border-radius: 12px;
@@ -60,7 +60,7 @@ border: 2px solid #D4A5D9;
 }
 
 .caja p{
-    font-size: 15px;
+    font-size: 10px;
     margin: 0px;
     text-align: center;
     display: inline-block;
